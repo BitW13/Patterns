@@ -1,0 +1,6 @@
+C:\Users\Artsiom_Shabolda\Projects\patterns\Patterns\StatePattern\StatePattern\obj\Debug\StatePattern.csprojAssemblyReference.cache
+C:\Users\Artsiom_Shabolda\Projects\patterns\Patterns\StatePattern\StatePattern\obj\Debug\StatePattern.csproj.CoreCompileInputs.cache
+C:\Users\Artsiom_Shabolda\Projects\patterns\Patterns\StatePattern\StatePattern\bin\Debug\StatePattern.dll
+C:\Users\Artsiom_Shabolda\Projects\patterns\Patterns\StatePattern\StatePattern\bin\Debug\StatePattern.pdb
+C:\Users\Artsiom_Shabolda\Projects\patterns\Patterns\StatePattern\StatePattern\obj\Debug\StatePattern.dll
+C:\Users\Artsiom_Shabolda\Projects\patterns\Patterns\StatePattern\StatePattern\obj\Debug\StatePattern.pdb
