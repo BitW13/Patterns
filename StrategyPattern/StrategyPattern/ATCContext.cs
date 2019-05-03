@@ -8,17 +8,27 @@ namespace StrategyPattern
 {
     public class ATCContext
     {
-        public List<string> Rates { get; set; }
+        public List<Rate> Rates { get; set; }
 
         public ATCContext()
         {
-            Rates = new List<string>();
+            Rates = new List<Rate>();
         }
 
         public IStrategy Strategy { get; set; }
-        public void Request()
+        public void Request(double value)
         {
-            Strategy.AddRate(this);
+            Strategy.AddRate(this, value);
+        }
+
+        public double Average()
+        {
+            double average = 0;
+            foreach(var rate in Rates)
+            {
+                average += rate.Value;
+            }
+            return average / Rates.Count;
         }
     }
 }

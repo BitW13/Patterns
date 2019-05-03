@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace StrategyPattern
 {
-    public interface IStrategy
+    public class Rate
     {
-        void AddRate(ATCContext context, double value);
+        public double Value { get; set; }
     }
 }

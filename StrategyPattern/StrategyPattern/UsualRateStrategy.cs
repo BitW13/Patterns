@@ -8,9 +8,9 @@ namespace StrategyPattern
 {
     public class UsualRateStrategy : IStrategy
     {
-        public void AddRate(ATCContext context)
+        public void AddRate(ATCContext context, double value)
         {
-            context.Rates.Add("usual rate");
+            context.Rates.Add(new Rate() { Value = value });
         }
     }
 }

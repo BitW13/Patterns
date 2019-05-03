@@ -8,9 +8,10 @@ namespace StrategyPattern
 {
     public class PreferentialRateStrategy : IStrategy
     {
-        public void AddRate(ATCContext context)
+        private const double DISCOUNT = 0.25;
+        public void AddRate(ATCContext context, double value)
         {
-            context.Rates.Add("preferential rate");
+            context.Rates.Add(new Rate() { Value = value*(1- DISCOUNT) });
         }
     }
 }
