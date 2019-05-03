@@ -1,0 +1,10 @@
+C:\Users\Artsiom_Shabolda\Projects\patterns\Patterns\ConsoleAppForStrategy\ConsoleAppForStrategy\bin\Debug\ConsoleAppForStrategy.exe.config
+C:\Users\Artsiom_Shabolda\Projects\patterns\Patterns\ConsoleAppForStrategy\ConsoleAppForStrategy\bin\Debug\ConsoleAppForStrategy.exe
+C:\Users\Artsiom_Shabolda\Projects\patterns\Patterns\ConsoleAppForStrategy\ConsoleAppForStrategy\bin\Debug\ConsoleAppForStrategy.pdb
+C:\Users\Artsiom_Shabolda\Projects\patterns\Patterns\ConsoleAppForStrategy\ConsoleAppForStrategy\bin\Debug\StrategyPattern.dll
+C:\Users\Artsiom_Shabolda\Projects\patterns\Patterns\ConsoleAppForStrategy\ConsoleAppForStrategy\bin\Debug\StrategyPattern.pdb
+C:\Users\Artsiom_Shabolda\Projects\patterns\Patterns\ConsoleAppForStrategy\ConsoleAppForStrategy\obj\Debug\ConsoleAppForStrategy.csprojAssemblyReference.cache
+C:\Users\Artsiom_Shabolda\Projects\patterns\Patterns\ConsoleAppForStrategy\ConsoleAppForStrategy\obj\Debug\ConsoleAppForStrategy.csproj.CoreCompileInputs.cache
+C:\Users\Artsiom_Shabolda\Projects\patterns\Patterns\ConsoleAppForStrategy\ConsoleAppForStrategy\obj\Debug\ConsoleAppForStrategy.csproj.CopyComplete
+C:\Users\Artsiom_Shabolda\Projects\patterns\Patterns\ConsoleAppForStrategy\ConsoleAppForStrategy\obj\Debug\ConsoleAppForStrategy.exe
+C:\Users\Artsiom_Shabolda\Projects\patterns\Patterns\ConsoleAppForStrategy\ConsoleAppForStrategy\obj\Debug\ConsoleAppForStrategy.pdb

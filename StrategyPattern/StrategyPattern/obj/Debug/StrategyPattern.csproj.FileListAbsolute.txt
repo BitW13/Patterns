@@ -1,0 +1,6 @@
+C:\Users\Artsiom_Shabolda\Projects\patterns\Patterns\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.dll
+C:\Users\Artsiom_Shabolda\Projects\patterns\Patterns\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.pdb
+C:\Users\Artsiom_Shabolda\Projects\patterns\Patterns\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.csprojAssemblyReference.cache
+C:\Users\Artsiom_Shabolda\Projects\patterns\Patterns\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.csproj.CoreCompileInputs.cache
+C:\Users\Artsiom_Shabolda\Projects\patterns\Patterns\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.dll
+C:\Users\Artsiom_Shabolda\Projects\patterns\Patterns\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.pdb
