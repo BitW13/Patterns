@@ -27,7 +27,7 @@ namespace FacadePattern.Subsystem
                                  "living space: {1}\n" +
                                  "number of residents: {2}\n" +
                                  "construction year: {3}\n" +
-                                 "building wear: {4}\n");
+                                 "building wear: {4}\n", insuranceTerm, livingSpace, numberOfResidents, constructionYear, buildingWear);
         }
     }
 }

@@ -1,0 +1,6 @@
+C:\Users\Artsiom_Shabolda\Projects\patterns\Patterns\AdapterPattern\AdapterPattern\bin\Release\AdapterPattern.dll
+C:\Users\Artsiom_Shabolda\Projects\patterns\Patterns\AdapterPattern\AdapterPattern\bin\Release\AdapterPattern.pdb
+C:\Users\Artsiom_Shabolda\Projects\patterns\Patterns\AdapterPattern\AdapterPattern\obj\Release\AdapterPattern.csprojAssemblyReference.cache
+C:\Users\Artsiom_Shabolda\Projects\patterns\Patterns\AdapterPattern\AdapterPattern\obj\Release\AdapterPattern.csproj.CoreCompileInputs.cache
+C:\Users\Artsiom_Shabolda\Projects\patterns\Patterns\AdapterPattern\AdapterPattern\obj\Release\AdapterPattern.dll
+C:\Users\Artsiom_Shabolda\Projects\patterns\Patterns\AdapterPattern\AdapterPattern\obj\Release\AdapterPattern.pdb

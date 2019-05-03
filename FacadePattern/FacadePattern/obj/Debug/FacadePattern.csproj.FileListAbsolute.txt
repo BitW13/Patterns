@@ -1,0 +1,6 @@
+C:\Users\Artsiom_Shabolda\Projects\patterns\Patterns\FacadePattern\FacadePattern\bin\Debug\FacadePattern.dll
+C:\Users\Artsiom_Shabolda\Projects\patterns\Patterns\FacadePattern\FacadePattern\bin\Debug\FacadePattern.pdb
+C:\Users\Artsiom_Shabolda\Projects\patterns\Patterns\FacadePattern\FacadePattern\obj\Debug\FacadePattern.csprojAssemblyReference.cache
+C:\Users\Artsiom_Shabolda\Projects\patterns\Patterns\FacadePattern\FacadePattern\obj\Debug\FacadePattern.csproj.CoreCompileInputs.cache
+C:\Users\Artsiom_Shabolda\Projects\patterns\Patterns\FacadePattern\FacadePattern\obj\Debug\FacadePattern.dll
+C:\Users\Artsiom_Shabolda\Projects\patterns\Patterns\FacadePattern\FacadePattern\obj\Debug\FacadePattern.pdb
