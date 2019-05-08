@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfHotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Hotel>
+    <Name>Main Hotel</Name>
+    <Rooms>
+      <HotelRoom>
+        <Number>111</Number>
+        <Client>
+          <FirstName>Ivan</FirstName>
+          <LastName>Ivanov</LastName>
+          <Age>18</Age>
+        </Client>
+        <Days>3</Days>
+        <RoomType>Single</RoomType>
+        <Price>3</Price>
+      </HotelRoom>
+      <HotelRoom>
+        <Number>123</Number>
+        <Client>
+          <FirstName>Greg</FirstName>
+          <LastName>Brobov</LastName>
+          <Age>43</Age>
+        </Client>
+        <Days>7</Days>
+        <RoomType>Double</RoomType>
+        <Price>8</Price>
+      </HotelRoom>
+    </Rooms>
+  </Hotel>
+</ArrayOfHotel>

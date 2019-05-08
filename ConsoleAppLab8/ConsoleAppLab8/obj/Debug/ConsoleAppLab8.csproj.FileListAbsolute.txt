@@ -1,0 +1,10 @@
+C:\Users\Artsiom_Shabolda\Projects\patterns\Patterns\ConsoleAppLab8\ConsoleAppLab8\bin\Debug\ConsoleAppLab8.exe.config
+C:\Users\Artsiom_Shabolda\Projects\patterns\Patterns\ConsoleAppLab8\ConsoleAppLab8\bin\Debug\ConsoleAppLab8.exe
+C:\Users\Artsiom_Shabolda\Projects\patterns\Patterns\ConsoleAppLab8\ConsoleAppLab8\bin\Debug\ConsoleAppLab8.pdb
+C:\Users\Artsiom_Shabolda\Projects\patterns\Patterns\ConsoleAppLab8\ConsoleAppLab8\bin\Debug\InformationExpertCreatorPatterns.dll
+C:\Users\Artsiom_Shabolda\Projects\patterns\Patterns\ConsoleAppLab8\ConsoleAppLab8\bin\Debug\InformationExpertCreatorPatterns.pdb
+C:\Users\Artsiom_Shabolda\Projects\patterns\Patterns\ConsoleAppLab8\ConsoleAppLab8\obj\Debug\ConsoleAppLab8.csprojAssemblyReference.cache
+C:\Users\Artsiom_Shabolda\Projects\patterns\Patterns\ConsoleAppLab8\ConsoleAppLab8\obj\Debug\ConsoleAppLab8.csproj.CoreCompileInputs.cache
+C:\Users\Artsiom_Shabolda\Projects\patterns\Patterns\ConsoleAppLab8\ConsoleAppLab8\obj\Debug\ConsoleAppLab8.csproj.CopyComplete
+C:\Users\Artsiom_Shabolda\Projects\patterns\Patterns\ConsoleAppLab8\ConsoleAppLab8\obj\Debug\ConsoleAppLab8.exe
+C:\Users\Artsiom_Shabolda\Projects\patterns\Patterns\ConsoleAppLab8\ConsoleAppLab8\obj\Debug\ConsoleAppLab8.pdb

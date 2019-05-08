@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="InformationExpertCreatorPatterns.Client">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAEAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InformationExpertCreatorPatterns.Hotel">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAQCAACACAAAAAAAABBAAAA=</HashCode>
+      <FileName>Hotel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InformationExpertCreatorPatterns.HotelRoom">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAEQAAAAAAAEAAAAAAACAAAAAARAACAAAAAAQ=</HashCode>
+      <FileName>HotelRoom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="InformationExpertCreatorPatterns.HotelRoomType">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hAAAAAAAAAAwAAACAAAAAACAAICCAAAAAAUgAAEAAIA=</HashCode>
+      <FileName>HotelRoomType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

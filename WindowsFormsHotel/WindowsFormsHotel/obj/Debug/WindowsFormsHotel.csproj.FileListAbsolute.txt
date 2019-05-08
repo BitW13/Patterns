@@ -1,0 +1,13 @@
+C:\Users\Artsiom_Shabolda\Projects\patterns\Patterns\WindowsFormsHotel\WindowsFormsHotel\bin\Debug\WindowsFormsHotel.exe.config
+C:\Users\Artsiom_Shabolda\Projects\patterns\Patterns\WindowsFormsHotel\WindowsFormsHotel\bin\Debug\WindowsFormsHotel.exe
+C:\Users\Artsiom_Shabolda\Projects\patterns\Patterns\WindowsFormsHotel\WindowsFormsHotel\bin\Debug\WindowsFormsHotel.pdb
+C:\Users\Artsiom_Shabolda\Projects\patterns\Patterns\WindowsFormsHotel\WindowsFormsHotel\bin\Debug\InformationExpertCreatorPatterns.dll
+C:\Users\Artsiom_Shabolda\Projects\patterns\Patterns\WindowsFormsHotel\WindowsFormsHotel\bin\Debug\InformationExpertCreatorPatterns.pdb
+C:\Users\Artsiom_Shabolda\Projects\patterns\Patterns\WindowsFormsHotel\WindowsFormsHotel\obj\Debug\WindowsFormsHotel.csprojAssemblyReference.cache
+C:\Users\Artsiom_Shabolda\Projects\patterns\Patterns\WindowsFormsHotel\WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Form1.resources
+C:\Users\Artsiom_Shabolda\Projects\patterns\Patterns\WindowsFormsHotel\WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Properties.Resources.resources
+C:\Users\Artsiom_Shabolda\Projects\patterns\Patterns\WindowsFormsHotel\WindowsFormsHotel\obj\Debug\WindowsFormsHotel.csproj.GenerateResource.cache
+C:\Users\Artsiom_Shabolda\Projects\patterns\Patterns\WindowsFormsHotel\WindowsFormsHotel\obj\Debug\WindowsFormsHotel.csproj.CoreCompileInputs.cache
+C:\Users\Artsiom_Shabolda\Projects\patterns\Patterns\WindowsFormsHotel\WindowsFormsHotel\obj\Debug\WindowsFormsHotel.csproj.CopyComplete
+C:\Users\Artsiom_Shabolda\Projects\patterns\Patterns\WindowsFormsHotel\WindowsFormsHotel\obj\Debug\WindowsFormsHotel.exe
+C:\Users\Artsiom_Shabolda\Projects\patterns\Patterns\WindowsFormsHotel\WindowsFormsHotel\obj\Debug\WindowsFormsHotel.pdb
