@@ -1,0 +1,7 @@
+E:\VS\Паттерны\Patterns\ConsoleAppLab9\ConsoleAppLab9\bin\Debug\ConsoleAppLab9.exe.config
+E:\VS\Паттерны\Patterns\ConsoleAppLab9\ConsoleAppLab9\bin\Debug\ConsoleAppLab9.exe
+E:\VS\Паттерны\Patterns\ConsoleAppLab9\ConsoleAppLab9\bin\Debug\ConsoleAppLab9.pdb
+E:\VS\Паттерны\Patterns\ConsoleAppLab9\ConsoleAppLab9\obj\Debug\ConsoleAppLab9.csprojAssemblyReference.cache
+E:\VS\Паттерны\Patterns\ConsoleAppLab9\ConsoleAppLab9\obj\Debug\ConsoleAppLab9.csproj.CoreCompileInputs.cache
+E:\VS\Паттерны\Patterns\ConsoleAppLab9\ConsoleAppLab9\obj\Debug\ConsoleAppLab9.exe
+E:\VS\Паттерны\Patterns\ConsoleAppLab9\ConsoleAppLab9\obj\Debug\ConsoleAppLab9.pdb

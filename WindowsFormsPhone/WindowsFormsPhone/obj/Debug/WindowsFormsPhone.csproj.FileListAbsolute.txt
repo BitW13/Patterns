@@ -1,0 +1,13 @@
+E:\VS\Паттерны\Patterns\WindowsFormsPhone\WindowsFormsPhone\bin\Debug\WindowsFormsPhone.exe.config
+E:\VS\Паттерны\Patterns\WindowsFormsPhone\WindowsFormsPhone\bin\Debug\WindowsFormsPhone.exe
+E:\VS\Паттерны\Patterns\WindowsFormsPhone\WindowsFormsPhone\bin\Debug\WindowsFormsPhone.pdb
+E:\VS\Паттерны\Patterns\WindowsFormsPhone\WindowsFormsPhone\bin\Debug\StatePattern.dll
+E:\VS\Паттерны\Patterns\WindowsFormsPhone\WindowsFormsPhone\bin\Debug\StatePattern.pdb
+E:\VS\Паттерны\Patterns\WindowsFormsPhone\WindowsFormsPhone\obj\Debug\WindowsFormsPhone.csprojAssemblyReference.cache
+E:\VS\Паттерны\Patterns\WindowsFormsPhone\WindowsFormsPhone\obj\Debug\WindowsFormsPhone.Form1.resources
+E:\VS\Паттерны\Patterns\WindowsFormsPhone\WindowsFormsPhone\obj\Debug\WindowsFormsPhone.Properties.Resources.resources
+E:\VS\Паттерны\Patterns\WindowsFormsPhone\WindowsFormsPhone\obj\Debug\WindowsFormsPhone.csproj.GenerateResource.cache
+E:\VS\Паттерны\Patterns\WindowsFormsPhone\WindowsFormsPhone\obj\Debug\WindowsFormsPhone.csproj.CoreCompileInputs.cache
+E:\VS\Паттерны\Patterns\WindowsFormsPhone\WindowsFormsPhone\obj\Debug\WindowsFormsPhone.csproj.CopyComplete
+E:\VS\Паттерны\Patterns\WindowsFormsPhone\WindowsFormsPhone\obj\Debug\WindowsFormsPhone.exe
+E:\VS\Паттерны\Patterns\WindowsFormsPhone\WindowsFormsPhone\obj\Debug\WindowsFormsPhone.pdb

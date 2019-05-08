@@ -26,6 +26,8 @@ namespace StatePattern
             CallProbability = probability;
 
             rnd = new Random();
+
+            State = new WaitingState();
         }
         public void TopUpAccount(double money)
         {
@@ -37,6 +39,10 @@ namespace StatePattern
             if(rnd.NextDouble() >= CallProbability)
             {
                 State.PickUp(this);
+            }
+            else
+            {
+                throw new Exception("Nobody is calling...");
             }
         }
 
